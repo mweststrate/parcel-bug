@@ -9,5 +9,8 @@
   },
   "scripts": {
     "build": "parcel public/index.html"
+  },
+  "dependencies": {
+    "immer": "^2.1.4"
   }
 }
